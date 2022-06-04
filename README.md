@@ -1,1 +1,1 @@
-# hospital-management-system-php
+# hospital-management-system
